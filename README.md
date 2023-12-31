@@ -2,7 +2,7 @@
 Here i will put all my ESP32-2432S028 aka CYD (Cheap Yellow Display) programs and utilities.build
 
 ## Setup
-Follow [this](https://github.com/GlitchedPanda/ESP32-Cheap-Yellow-Display) to set up
+Follow [this](https://github.com/GlitchedPanda/ESP32-Cheap-Yellow-Display/blob/main/SETUP.md) to set up
 
 ## How to build and upload (Arduino IDE)
 1. Plug your ESP32-2432S028 into your computer via usb.
