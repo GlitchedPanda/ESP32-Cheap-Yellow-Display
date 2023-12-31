@@ -11,7 +11,7 @@
 			}
 			let examples = document.getElementById('examples');
 			examples.innerHTML = '';
-			fetch('examples.json')
+			fetch('programs.json')
 				.then(response => response.json())
 				.then(json => {
 					json.examples.sort().forEach((element) => {
