@@ -1,5 +1,5 @@
 {
-  "name": "OtherTesting",
+  "name": "TouchTest",
   "builds": [
     {
       "chipFamily": "ESP32",
@@ -8,7 +8,7 @@
         { "path": "bootloader.bin", "offset": 4096 },
         { "path": "partitions.bin", "offset": 32768 },
         { "path": "boot_app0.bin", "offset": 57334 },
-        { "path": "2-OtherTesting.bin", "offset": 65536 }
+        { "path": "2-TouchTest.bin", "offset": 65536 }
       ]
     }
   ]
