@@ -34,3 +34,5 @@ This can be installed from the library manager by searching for "TFT_eSPI".
 
  > Note: After install of the library, copy the file [User_Setup.h](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display/blob/main/DisplayConfig/User_Setup.h) to the `libraries\TFT_eSPI` Arduino folder. This sets up the library for use with this display.
 > 
+
+Credit to: [witnessmenow](https://github.com/witnessmenow)
