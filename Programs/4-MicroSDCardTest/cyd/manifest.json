@@ -1,0 +1,15 @@
+{
+  "name": "MicroSDCardTest",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "improv": false,
+      "parts": [
+        { "path": "bootloader.bin", "offset": 4096 },
+        { "path": "partitions.bin", "offset": 32768 },
+        { "path": "boot_app0.bin", "offset": 57334 },
+        { "path": "4-MicroSDCardTest.bin", "offset": 65536 }
+      ]
+    }
+  ]
+}
